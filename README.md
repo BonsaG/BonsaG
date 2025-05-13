@@ -8,19 +8,10 @@ Currently learning new technologies and expanding my skillset in web & mobile de
 
 ## 💡 Tech Stack
 
-<!-- Badges use GitHub's default theme-friendly color codes -->
-<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">
-  JavaScript
-</span>
-<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">
-  React
-</span>
-<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">
-  Node.js
-</span>
-<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">
-  Tailwind CSS
-</span>
+<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">JavaScript</span>
+<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">React</span>
+<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">Node.js</span>
+<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">Tailwind CSS</span>
 
 ---
 
@@ -39,11 +30,8 @@ Currently learning new technologies and expanding my skillset in web & mobile de
 
 ## 📊 GitHub Stats
 
-<!-- Theme-friendly stats cards -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonsaG )](https://github.com/anuraghazra/github-readme-stats )  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonsaG&show_icons=true&theme=dracula )](https://github.com/anuraghazra/github-readme-stats )
-
-> 🎨 Tip: You can change `theme=dracula` to `theme=radical`, `vue`, `blue-green`, etc. if you prefer!
 
 ---
 
