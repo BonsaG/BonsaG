@@ -37,7 +37,7 @@ Currently learning new technologies and expanding my skillset in web & mobile de
 
 ## 🔗 Links
 
-- 📘 LinkedIn: [@bonsagirma-2025](https://www.linkedin.com/in/bonsagirma-2025/ )
+- 📘 LinkedIn: [@bonsagirma-2025](linkedin.com/in/bonsa-girma2025/ )
 - 🖥️ Portfolio: [my-portfolio-website](https://github.com/BonsaG/my-portfolio-website )
 - 💼 GitHub Profile: [BonsaG](https://github.com/BonsaG )
 
