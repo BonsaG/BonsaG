@@ -10,7 +10,8 @@ Currently learning new technologies and expanding my skillset in web & mobile de
 
 <span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">JavaScript</span>
 <span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">React</span>
-<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">Node.js</span>
+<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">TypeScript</span>
+<span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">Next.js</span>
 <span style="display: inline-block; background-color: var(--color-badge-bg, rgba(179,150,255,0.15)); padding: 4px 8px; border-radius: 9999px; font-family: monospace; color: var(--color-fg-default); margin: 4px;">Tailwind CSS</span>
 
 ---
